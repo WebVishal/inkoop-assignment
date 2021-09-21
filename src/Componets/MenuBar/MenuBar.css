@@ -1,0 +1,22 @@
+
+.menuCard {
+    margin-top: 2.75rem;
+    text-align: center;
+}
+
+.menubar{
+    width: 150px;
+    text-align: left;
+    font-size: 15px;
+    margin-top: 5px;
+    text-decoration: none;
+   
+}
+.menubar ul {
+    list-style: none;
+    opacity: 0.5;
+}
+.menubar ul li{
+    padding: 1rem;
+
+}
